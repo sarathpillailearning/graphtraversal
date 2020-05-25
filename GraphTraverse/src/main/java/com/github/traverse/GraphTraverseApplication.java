@@ -45,7 +45,7 @@ public class GraphTraverseApplication{
 			System.out.println("Time taken for DFS: "+(dfsEndTime-dfsStartTime)/Math.pow(10, 6)+" ms");
 		}catch (ArrayIndexOutOfBoundsException e) {
 			System.out.println("Check the node value! Seems it has weight more than the array size!!!");
-			System.out.println("Kindly check the node value (1<=N<=int val)");
+			System.out.println("Kindly check the node value (1 <= N <= int val)");
 		}
 		long endTime=System.nanoTime();
 		System.out.println("Execution Time : "+(endTime-startTime)/Math.pow(10, 6)+" ms");
