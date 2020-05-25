@@ -8,6 +8,7 @@ import com.github.traverse.mapper.BFSMapper;
 import com.github.traverse.mapper.DFSMapper;
 import com.github.traverse.model.Node;
 
+
 public class GraphTraverseApplication{
 
 	public static void main(String[] args) {
