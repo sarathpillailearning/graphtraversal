@@ -6,9 +6,9 @@ This is a small learning project on how to traverse a graph using BFS and DFS. T
 
 ## Learning
 
-### BFS    https://en.wikipedia.org/wiki/Breadth-first_search
+### BFS  :  https://en.wikipedia.org/wiki/Breadth-first_search
 
-### DFS    https://en.wikipedia.org/wiki/Depth-first_search
+### DFS  :  https://en.wikipedia.org/wiki/Depth-first_search
 
 
 ## Prerequisites
